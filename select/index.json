@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "名無声",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2026-03-16T06:21:08.325986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "名無声",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_名無声_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "名無声",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_名無声_MyGO!!!!!.txt"
+    }
+  ]
+}
